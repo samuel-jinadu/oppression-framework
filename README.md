@@ -1,2 +1,118 @@
-# oppression-framework
-I have spent enough time in human society and before I am forced to leave, I want to leave a review. TLDR: 0/10⭐ would not recommend!
+# A Framework for Understanding Systemic Oppression 
+## Goal
+- I personally don't believe in utopias, i think are little more than propaganda the elite use to peddle one oppressive system or the other.
+- The only goal worth striving for at this point in history in relation to society is reaching "zero", the point at which all oppressive systems have being abolished and suppressed in perpetuity. Then and only then we can have a serious discussion about what an utopia is and how can actually build one. Because "zero" is not utopia, it is only the absence of the foolishness that has caused us so much suffering.
+- But the people that will go from "zero" to "utopia" we first need a world absent of oppressive systems.
+- That is the eventual goal of this framework: Abolition
+- But before abolition, we must have understanding
+## Background Information
+*This framework is built on the Matrix of Domination (by Patricia Collins)*
+- **Harm**: I don't want to define this but to contrast it with systemic oppression, systemic oppression might be a type of harm but there are myriad ways to be hurt in existence as an existing entity, therefore this exists to show that even if all oppressive systems are dismantled harm will still happen but at least the predictable preventable harm cause by social interactions will weaken or perhaps cease. And this topic is relevant because its the reason why Retributivism is oppressive, Retributivism is basically responding to harm with more harm, nobody is saying that rapists aren't harming people, or pedos aren't harming children, or that murder isn't a big deal but that we should attempt to respond to harm with restoration and healing rather than more harm and only when that restoration or healing is resisted should we use harm as a measure (prisons, lynching etc.) and the vast majority of people who end up in prisons or getting lynched haven't actually done anything warranting the destruction of their lives, are you really burning someone alive for stealing a few things, does it suck and is it very painful, of course it is, but murder is quite the escalation from petty theft and makes our society hostile. 
+- **Inequality**: Again my goal is not to define but to contrast with systemic oppression, inequality is not inherently oppressive, despite what the envious say, a person being samrter, richer, faster, taller, capturing more attention whether romantic or sexual or platonic or whatever isn't inherently oppressive. Now many an oppressive system can and do generate inequality in the form of stratification as a structural residue but that is not the same as someone being born blind or someone being born with super-eyesight. Make no mistake, stratification is oppressive but inequality that is not in the form of stratification isn't inherently oppressive. But do take note, that oppressive systems can be built on this kind of inequality. A group can realise they have military technology far exceeding their neighbours and then use it to go on a murder spree or perform the system called Invasion or Settler Colonialism or whatever, but that military superiority isn't the problem, it's the moment they decided to use it for oppressive ends, thats where the problems started (though this is ignoring the fact that militaries as they exist right now are quite an oppressive apparatus depite the claims about them only being for "defense", but thats a topic for another day)
+
+### Requirements for Systemic Oppression
+*For something to count as systemic oppression, it must meet the following requirements:*
+   - It must extract something tangible (material, or something required for the subject's current living conditions) and enforce a standard whose non-compliance carries real-world consequences for the subject — loss of resources, physical harm, legal sanction, or exclusion from the institutions and spaces required for ordinary life — thereby removing options/alternatives in a manner consequential to the subject's life conditions.
+   - It must operate through the interpersonal, disciplinary, and structural domains at minimum i.e it must be an adult/mature system
+   - Through the classification produced by the structural domain, it must act on a class that has subjects and witneses capable of comprehending the loss and restriction and acting on that to rebel and dissent in a coordinated manner in order to force the capitulation of the enforcer/extractor. (therefore animals, and ecologies don't count in as much as they dont affect humans but teenagers and all other humans count and children and babies only count because they are in the same class with teenagers who are "non-adults" under adultism similar to the way a fully paralysed person is in the same class with someone who simply has a bad leg under Somatic Normativity as "disabled")"
+
+### Fundamental Matrix
+A matrix that cannot be dissolved by dismantling any other matrix. This is either because it cannot be decomposed into constituent matrices at all — it simply exists independently — or because even though it arose from another matrix, that matrix is a concluded historical event that cannot be retroactively undone, making the only viable path the direct dismantling of the matrix's own current domains.
+
+### Difference between Intersection and Aggregation
+   + In an intersection, every constituent matrix is necessary for the emergent phenomenon to exist. Remove any one constituent and the phenomenon dissolves or changes into something qualitatively different. The constituents are not just co-occurring — they require each other to produce the emergent system.
+   + In an aggregation, the constituent matrices contribute independently. Each one adds its layer without requiring the others. Remove one and the phenomenon diminishes but does not dissolve — it simply becomes less heavy.
+
+### Intersectional Matrix
+A matrix that can be dissolved by dismantling all constituent Fundamental Matrices simultaneously. These matrices have a unique trait: if their constituents are not dismantled simultaneously, the remaining constituents will recreate the conditions for the dismantled ones to re-emerge, and the intersection will regenerate — often in a modified form that is harder to recognize and challenge.
+
+### Four Types of Matrices or Systems
+   + **Nascent** (Interpersonal only) – A triad (enforcer–subject–witness) operating without network support. The witness is complicit  in the enforcement/extraction, making it *capable of social reproduction* and gives it the potential to be systemic under the right conditions. There are probably bilions of these things running around.
+   + **Fledgling** (Interpersonal + Disciplinary) – The triads have linked into networks: communities (distributed) or hierarchies (nested stars). The system can now scale beyond the original actors and is getting closer to its full potential.
+   + **Mature/Adult** (Interpersonal + Disciplinary + Structural) – The networks have left codified residue: rules, rankings, or categories that outlive the original groups. New groups form into the same pattern.
+   + **Ascended / Realism** (All four domains) – The system has achieved *Realism* (from Capitalist Realism) where it is assumed to be the way reality works, retroactively rewrites history, claims that there is no alternative and to challenge it is to challenge a hurricane to a fight. All Ascended Systems/Matrices produce a stable Intrapersonal Domain and have an Hegemonic Domain, In fact, it is required for its ascension ritual to succeed. At this point the system is the closest thing we have to an actual real-life god with the power to rewrite history, morality, perception, reality and so on.
+
+### Extensions of Matrix of Domination 
+   + Interpersonal Domain - This is refined into a set of interpersonal triads, each enforcing or extracting one thing or the other but never both (when you take all the enforcement triads and extraction triads together, you get the Interpersonal domain)
+      - Interpersonal Triad — The minimum reproductive unit of systemic oppression. It is made up of 3 roles, each of which may be occupied by one or many individuals:
+      - Enforcer/Extractor/Validator — who enforces, extracts, or validates the enforcement/extraction of another. Validation is the line between this role and the witness: if you validate the act, you occupy this role, regardless of whether you were physically present or personally benefited.
+      - Subject — who is the target of enforcement or the source of extraction. They may conform or rebel, but their position as subject is defined by being the one acted upon.
+      - Witness — who knows of the act (through direct perception, mediated transmission, or subsequent testimony), does not participate, does not validate it, and either dissents (breaking the triad) or is complicit (enabling reproduction through inaction). The witness is not a personal beneficiary of the specific enforcement/extraction.
+      - Non-extracting Beneficiary - this is a special role that shows up in extraction contexts
+         1. They receive material benefit from a specific extraction
+         2. They are not the active extractor and do not validate the extraction (if they validate, they become an enforcer/extractor/validator)
+         3. They do not dissent from it either (if they dissent, they become a dissenting witness)
+         4. Cannot be a witness because the framework correctly excludes personal beneficiaries from the witness role
+         5. For example: the son in the household who benefits from the extraction of a woman (domestic labor) who is being extracted from by the heads of the household
+         6. But this role relatively unstable because the moment they make any attempt to validate or extract, they instantly become extractors too and remain that way as long as the triad persists
+      - Key properties:
+         1. The witness is the line between personal cruelty and social reproduction. Without a witness, the act is harm; with a witness, it becomes a system. e.g. the neighbor who says nothing is a complicit witness; the neighbor who says she deserved it is now an enforcer
+         2. The triad does not require every role being present physically. It can be assembled synchronously (all roles present in one room) or asynchronously (roles filled across days, years, or media platforms through testimony, gossip, memory, or algorithmic circulation).
+         3. These are roles, not persons. One individual may occupy multiple roles across different triads, and a single role may be filled by many individuals (e.g., 30 enforcers, 10 subject, 12 witness).
+         4. A single triad does one or the other — if both seem to be occurring simultaneously, they are two triads running in parallel on the same subject, not one triad doing two things.
+         5. But the roles still need to be filled by living persons or groups, if there is a rule that dead people made its just bureaucracy. A film, book, or cultural text that shapes current behavior is not an enforcer — it is a structural residue (Bureaucracy) or Canon (Ascension Ritual). The enforcer in any triad is the living person who performs the enforcement now, even if their behavior was shaped by dead people's rules
+         6. In an extraction triad, something tangible passes from the subject to the extractor — their labor, money, land, time, physical resources, or reproductive capacity. If nothing tangible passes from subject to extractor, the triad is an enforcement triad. Not every matrix and not every sub-matrix within a composite matrix needs an extraction triad.
+         7. The witness cannot be participating in enforcement/extraction/validation, the moment they do they become an enforcer/extractor/validator
+   + Disciplinary Domain - This is refined into a set of networks which can take two forms as described below, where the interpersonal triad is a node and either the enforcer/extractor or the witness is the link between triad-nodes
+      - Disciplinary Hierarchy — a network of stars where the enforcer of one triad-node is also the subject of a higher-level triad-node, creating a chain of nested enforcement where every middle position is simultaneously subject to the level above and enforcer to the level below.
+      - Disciplinary Community — a distributed network where the witness of one triad-node becomes the enforcer, subject, or witness of another triad-node, spreading the pattern laterally through any person who has witnessed the enforcement or extraction without dissenting.
+   + Structural Domain — refined into a set of residues that survive the Ship of Theseus test below.
+      - Ship of Theseus test: When the people in the initial triad are dead and replaced, when the networks are disbanded and reform, what is consistent? What outlives both individuals and groups? What remains that forces new individuals and groups to re-form into the same patterns — not because anyone instructs them to, but because the residue makes any other pattern costly or invisible?
+      - Bureaucracy: the enduring rules and procedures which forces new individuals into triad roles through compulsory interaction with formal institutions.
+      - Stratification: the enduring zero-sum rankings (written or unwritten) (above/below, winner/loser) which forces new individuals into triad roles through the daily experience of the rank in every hierarchical encounter
+      - Classification: the enduring categorical divisions (written or unwritten) (in/out, us/them, single/coupled) which forces new individuals into triad roles through answering to a class name in every social and administrative interaction.
+      - Note: These are not mapped one-to-one from disciplinary forms, and a matrix may produce one, two, or all three. Some leave Classification only. Some leave Bureaucracy and Classification. Some leave Stratification and Classification. And so on. What matters is that each residue continues to impose compulsory performance on new actors
+   + Hegemonic Domain -  refined into the **Ascension Ritual**, the process by which a mature system achieves Realism. The Ritual converts the system's structural residues, disciplinary networks, and interpersonal triads into a stable Intrapersonal Domain
+      - The Ascension Ritual operates through two simultaneous mechanisms:
+         1. Canon (Rewrite History) - when structural residues (Bureaucracy, Stratification, and Classification) persist long enough, their origination is forgotten and they are assumed have "always been so" rather than a temporary arrangement
+         2. Practice (Rewrite Reality) - the interpersonal triad is repeated again and again and again until it becomes habit for the participants and they forget the other options (the enforcer/extractor forgets they can choose to not enforce, extract or validate, the subject forget they can just rebel, the witness forgets they can dissent)
+      - If a system successfully rewrites history and rewrites reality, it has ascended, achieved realism and made a stable Intrapersonal domain
+   + The Intrapersonal Domain (produced after a successful ascension ritual in the hegemonic domain)
+      - Internalised Authority (all ascended systems) — the set of felt rights (and sometimes obligations) that a matrix teaches its enforcers/validators to expect as natural, automatic, or unquestionable: specifically the right to enforce the system's standard on others, regardless of personal material gain. Even without stratification, the enforcer feels their enforcement is legitimate, appropriate, and normal.
+      - Internalised Domination (only ascended systems producing Stratification) — the set of entitlements that a matrix teaches its extractors to expect as natural, automatic, or unquestionable: specifically the right to receive material extraction from those ranked below them.
+      - Internalised Oppression – The set of beliefs (and sometimes obligations) that a matrix teaches its subjects or witnesses to prevent the rebellion of the subject or the dissent of the witness (interpersonal triad).
+      - Death (fast/slow) — List of the ways a system can cause premature destruction of a person's body, life, or way of being. Sometimes the death is instant (bombing, lynching, police murder). Sometimes the death is slow (chronic illness from stress, grinding attrition, environmental poisoning, the erasure of a language or culture).
+      - Note that internalised domination is only present for systems that have ascended and have produce stratification (e.g. Rankism), so a system like Amatonormativity that although ascended, doesn't produce stratification would not count
+
+
+
+## Fundamental Matrices (especially the Adult and Ascended Ones)
+- Rankism (Archism, Rank, and Tenurism)
+- Adultism
+- Kinship Normativity
+- Cisheteropatriarchy (Cisnormativity, Allonormativity/Repronormativity/Heterosexuality, and Patriarchy)
+- Religious Dominance / Sectarianism
+- Enclosure (the privatization of access to resources required for living — originally land, extended to housing, water, healthcare, food systems, knowledge, data, and any other material or condition required for the subject's current living conditions)
+- Productivism / Compulsory Productivity
+- Invasion (foreigner invades a locale to extract something tangible and enforce their standards on the locals - Neoliberalism (IMF/World Bank), Dollar Hegemony, Saudi/Wahhabist Religious Invasion, American Evangelical Christianity, Silicon Valley Tech Invasion, Chinese Economic Invasion)
+- Settler Colonialism (Genocide/Displacement/Assimilation) [foreigners invade a locale to extract existence from the locals and enforce their own existence at the expense of the locals] *Note: There's no actual case of this in nigeria, at least in adult form though nascent and fledgling forms exist, but the point is actually to study it in other countries as like a warning of just how bad a system like this can get if it is allowed to grow to adulthood/maturity and ascend*
+- Coloniality — Invasion reached ascension but has ended and wasn't properly dismantled, so structural residues AND ascension ritual mechanisms were leftover and went on to form their own independent systems: Epistemic Oppression, Linguicism (English), Colorism, Texturism, Colonial Christianity.
+- Somatic Normativity (Ableism/Sanism/Lookism/Sizeism)
+- Retributivism
+- Amatonormativity (the compulsory couple-form: what it enforces on and extracts from anyone who is single, aromantic, or not properly coupled — gendered role expectations within couples belong to Cisheteropatriarchy and should be excluded from this analysis)
+- Compulsory Existence / Suicidism
+- Meritism / The Significant (the system in which demonstrated capacity to capture collective attention and fascination grants social licence and exemption from ordinary rules)
+- Ethnic Majoritarianism
+- Territorialism
+- State Sovereignty / Statism — (the state's claim to exclusive authority over all persons within its territory, enforced through monopoly on legitimate violence, taxation, conscription, and control of legal personhood -  gangs and warlord systems are the Nascent and Mature stages respectively)
+
+## Intersectional Matrices
+*There's more than this but as they say, "topic for another day"*
+- Capitalism (Enclosure + Productivism + Rankism + State Sovereignty)
+- The Romantic/Sexual Script (Cisheteropatriarchy + Amatonormativity)
+- Familism / The Nuclear Family System (Adultism + Kinship Normativity)
+- Nationalism (Ethnic Majoritarianism + Territorialism)
+- Colonialism/Imperialism (Invasion + Settler Colonialism + Coloniality) [Settler Colonialism, which is a component of this intersection, never reached maturity in Nigeria — British colonialism was extractive rather than settler in character. This intersection is studied here in the context of other countries as a warning]
+- Theocratic Moralism (Religious Dominance + Retributivism)
+
+## Aggregations
+- Beauty Standards (if you took all the fundamental matrices that enforce appearance standards and aggregated them (and the reason i use the word "aggregate" instead of "intersect" is that beauty sandards accumlate and are often contraditory and nonesensical, where an "intersect" is an agreement of core logics, aggregation does not bother with any "logic"), you get Beauty Standards and the beauty standard is not seen as a neutral social phenomenon but as a "standard" that is "enforced" therefore making it oppressive rather than being about true beauty and it has the side-effect that nobody is alowed to be beautiful, t is almost as if beauty is gatekept and everyone is constantly comparing themeselves and fucking up their own self-esteem and that of others for zero-benefit)
+- Manufactured Loneliness (how all fundamental matrices that possess an intrapersonal domain causing slow death aggregate to isolate people and produce loneliness by sabotaging the intimacy model at each step)
+- Social Death / Invisibility (the accumulated effect of multiple fundametal matrices that produce classification as a structural residue simultaneously rendering a person "not worth acknowledging")
+- Burnout / Exhaustion (the accumulated labor extraction from fundamental matrices that extract labour of one form or another converging on the same person's daily energy budget, the resulting depletion is often described as chronic fatigue, burnout, or the perpetual exhaustion that has no single identifiable cause.)
+- Accelerated Slow Death (if you have a knife in your gut and a knife in your chest you would die faster than if it was only one knife. This aggregation is based on all fundametal matrices that have a stable intrapersonal domain and therefore produce Death (slow). Death (slow) in the Intrapersonal Domain is what a SINGLE matrix's Practice mechanism produces in the subject's body over time. Accelerated Slow Death is an AGGREGATION of multiple matrices' Death (slow) outputs converging simultaneously.)
+
+## Other Topics of Note
+- Proximity to Elite/Classism (a measurement concept: if you mapped a person's position across all the Stratification residues produced by all fundamental matrices simultaneously, the resulting composite position is their Proximity to Elite, which is a vastly better explanation of class than classic classist theory)
+- Oppression Olympics (this one is a joke, one day i had a thought, what if we intersected every fundamental oppressive system and we dentify that specific person that is a subject to all of them, we would have found the most oppressed person in the world, but its a joke please do not take this out of context, determining who is the most oppressed of them all does sound funny but i once heard someone say that if we redesigned society with this kind of person in mind our society will be a vastly better place)
+- The Problem with Communism (and similar movements that intend to dismatle systemic oppression) [based on a we've spoken about so far, it is apparent that communism is just a rearrangement of the fundamental matrices and not really emacipation, essentially it tries to dismantle Enclosure but intends to do it through State Soverignty and Retributivism while leaving Rankism, Cisheteropatriachy, Productivism and basically ever other fundamental matrix intact either through will or ignorance. An example is China that claim capitalism bad and ended up with State Capitalism and one of the most powerful Elite Class in the world, China's president is basically the man with the most power in the world since he's basically a dictator with resources of a superpower, he doesn't even have to pretend at democracy like the other superpoers]
