@@ -97,7 +97,7 @@ A matrix that can be dissolved by dismantling all constituent Fundamental Matric
 - Retributivism
 - Amatonormativity (the compulsory couple-form: what it enforces on and extracts from anyone who is single, aromantic, or not properly coupled — gendered role expectations within couples belong to Cisheteropatriarchy and should be excluded from this analysis)
 - Compulsory Existence / Suicidism
-- Meritism / The Significant (the system in which demonstrated capacity to capture collective attention and fascination grants social licence and exemption from ordinary rules)
+- Meritism / The Significant (the system in which demonstrated capacity to capture collective attention and fascination grants social licence and exemption from ordinary rules.  Note: the basis for capturing colective attention can be anything — skill, intellect, ideology, beauty, sexual interest, relatability, raw popularity, or uniqueness of some sort, it doesn't matter how, only that collective attention and fascination is captured)
 - Ethnic Majoritarianism
 - Territorialism
 - State Sovereignty / Statism — (the state's claim to exclusive authority over all persons within its territory, enforced through monopoly on legitimate violence, taxation, conscription, and control of legal personhood -  gangs and warlord systems are the Nascent and Mature stages respectively)
