@@ -86,7 +86,7 @@ A matrix that can be dissolved by dismantling all constituent Fundamental Matric
 - Rankism (Archism, Rank, and Tenurism)
 - Adultism
 - Kinship Normativity
-- Cisheteropatriarchy (Cisnormativity, Allonormativity/Repronormativity/Heterosexuality, and Patriarchy)
+- Cisheteropatriarchy (Cisnormativity, Allonormativity/Repronormativity/Heterosexuality, Patriarchy, and Patriarchal Violence)
 - Religious Dominance / Sectarianism
 - Enclosure (the privatization of access to resources required for living — originally land, extended to housing, water, healthcare, food systems, knowledge, data, and any other material or condition required for the subject's current living conditions)
 - Productivism / Compulsory Productivity
