@@ -86,13 +86,13 @@ A matrix that can be dissolved by dismantling all constituent Fundamental Matric
 - Rankism (Archism, Rank, and Tenurism)
 - Adultism
 - Kinship Normativity
-- Cisheteropatriarchy (Cisnormativity, Allonormativity/Repronormativity/Heterosexuality, Patriarchy, and Patriarchal Violence)
+- Cisheteropatriarchy (Cisnormativity, Allonormativity/Repronormativity/Heterosexuality, Patriarchy, Patriarchal Violence, and Hegemonic Masculinity/Emphasized Femininity)
 - Religious Dominance / Sectarianism
 - Enclosure (the privatization of access to resources required for living — originally land, extended to housing, water, healthcare, food systems, knowledge, data, and any other material or condition required for the subject's current living conditions)
 - Productivism / Compulsory Productivity
-- Invasion (foreigner invades a locale to extract something tangible and enforce their standards on the locals - Neoliberalism (IMF/World Bank), Dollar Hegemony, Saudi/Wahhabist Religious Invasion, American Evangelical Christianity, Silicon Valley Tech Invasion, Chinese Economic Invasion)
+- Invasion (foreigner invades a locale to extract something tangible and enforce their standards on the locals — Neoliberalism (IMF/World Bank), Dollar Hegemony, Saudi/Wahhabist Religious Invasion, American Evangelical Christianity, Silicon Valley Tech Invasion, Chinese Economic Invasion)
 - Settler Colonialism (Genocide/Displacement/Assimilation) [foreigners invade a locale to extract existence from the locals and enforce their own existence at the expense of the locals] *Note: There's no actual case of this in nigeria, at least in adult form though nascent and fledgling forms exist, but the point is actually to study it in other countries as like a warning of just how bad a system like this can get if it is allowed to grow to adulthood/maturity and ascend*
-- Coloniality — Invasion reached ascension but has ended and wasn't properly dismantled, so structural residues AND ascension ritual mechanisms were leftover and went on to form their own independent systems: Epistemic Oppression, Linguicism (English), Colorism, Texturism, Colonial Christianity.
+- Coloniality (Invasion reached ascension but has ended and wasn't properly dismantled, so structural residues AND ascension ritual mechanisms were leftover and went on to form their own independent systems: Epistemic Oppression, Linguicism (English), Colorism, Texturism, Colonial Christianity.)
 - Somatic Normativity (Ableism/Sanism/Lookism/Sizeism)
 - Retributivism
 - Amatonormativity (the compulsory couple-form: what it enforces on and extracts from anyone who is single, aromantic, or not properly coupled — gendered role expectations within couples belong to Cisheteropatriarchy and should be excluded from this analysis)
@@ -104,12 +104,12 @@ A matrix that can be dissolved by dismantling all constituent Fundamental Matric
 
 ## Intersectional Matrices
 *There's more than this but as they say, "topic for another day"*
-- Capitalism (Enclosure + Productivism + Rankism + State Sovereignty)
-- The Romantic/Sexual Script (Cisheteropatriarchy + Amatonormativity)
-- Familism / The Nuclear Family System (Adultism + Kinship Normativity)
-- Nationalism (Ethnic Majoritarianism + Territorialism)
-- Colonialism/Imperialism (Invasion + Settler Colonialism + Coloniality) [Settler Colonialism, which is a component of this intersection, never reached maturity in Nigeria — British colonialism was extractive rather than settler in character. This intersection is studied here in the context of other countries as a warning]
-- Theocratic Moralism (Religious Dominance + Retributivism)
+- Capitalism (Enclosure × Productivism × Rankism × State Sovereignty)
+- The Romantic/Sexual Script (Cisheteropatriarchy × Amatonormativity)
+- Familism / The Nuclear Family System (Adultism × Kinship Normativity)
+- Nationalism (Ethnic Majoritarianism × Territorialism)
+- Colonialism/Imperialism (Invasion × Settler Colonialism × Coloniality) [Settler Colonialism, which is a component of this intersection, never reached maturity in Nigeria — British colonialism was extractive rather than settler in character. This intersection is studied here in the context of other countries as a warning]
+- Theocratic Moralism (Religious Dominance × Retributivism)
 
 ## Aggregations
 - Beauty Standards (if you took all the fundamental matrices that enforce appearance standards and aggregated them (and the reason i use the word "aggregate" instead of "intersect" is that beauty sandards accumlate and are often contraditory and nonesensical, where an "intersect" is an agreement of core logics, aggregation does not bother with any "logic"), you get Beauty Standards and the beauty standard is not seen as a neutral social phenomenon but as a "standard" that is "enforced" therefore making it oppressive rather than being about true beauty and it has the side-effect that nobody is alowed to be beautiful, t is almost as if beauty is gatekept and everyone is constantly comparing themeselves and fucking up their own self-esteem and that of others for zero-benefit)
@@ -127,4 +127,4 @@ A matrix that can be dissolved by dismantling all constituent Fundamental Matric
 *I have personally never seen an oppressive system successfuly dismantled before, so this is just speculation*
 - **The Naive Approach**: Essentially, this one says: break the triad, disband the networks, erase the residue, interrupt the rituals, and decontruct the internalisations for every single fundamental matrix. 
 - The issue is, I don't think this will work as well as the theory says (I don't mean it would be completely ineffective, I just don't think it would create "zero". So yes, if you have no other options, you can still use it, since whatever it will produce will be better than what currently exists, but thats honestely such a low bar though. Bottom-line: Don't set your expectations too high.). Its just a gut feeling though, so don't expect any evidence.
-- I think the actual way to go about it involves intersections somehow and in order to even begin performing it we would it a "Intersections Framework" (not to be confused with Intersectionality that focuses on individual experience with oppressive systems, this one focuses on the intersections of oppressive systems)
+- I think the actual way to go about it involves intersections somehow and in order to even begin performing it we would need a "Intersections Framework" (not to be confused with Intersectionality that focuses on individual experience within oppressive systems, this one focuses on the intersections of oppressive systems)
